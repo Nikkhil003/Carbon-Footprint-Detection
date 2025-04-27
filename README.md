@@ -2,11 +2,11 @@
 
 **Carbon FootPrint Detection** is a comprehensive web application designed to help the Indian coal industry address climate change challenges. It empowers coal mine operators to make informed decisions by quantifying carbon footprints and offering pathways to achieve carbon neutrality. The tool features emission estimation, carbon neutrality simulations, data visualization, carbon credit calculations, and allows users to generate and store PDF reports of their analysis.
 
-## Demo Video
+<!--## Demo Video
 
 Here is the working demo of Carbon FootPrint Detection:
 
-[Demo Video](https://youtu.be/T19DcbGDWgY?feature=shared)
+[Demo Video](https://youtu.be/T19DcbGDWgY?feature=shared)-->
 
 ## Features
 
@@ -42,7 +42,7 @@ To run the Coal Carbon Footprint Tool locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/Geethika-Kancharla/Carbon FootPrint Detection
+    git clone https://github.com/Nikkhil003/Carbon-Footprint-Detection.git
     ```
 
 2. **Navigate to the `frontend` directory:**
